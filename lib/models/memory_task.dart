@@ -1,7 +1,7 @@
 class MemoryTask {
   final String id;
-  final String title;        // 短的標題，例如「Memory at 01:41」
-  final String summary;      // 語音摘要（假裝是模型幫你整理的）
+  final String title;    // 標題範例
+  final String summary;  // 待實作：未來將串接 LLM API，目前使用模擬資料 (Mock Data) 驗證介面
   final DateTime createdAt;  // 建立時間
   final DateTime remindAt;   // 提醒時間
   final String source;       // 'memory_key' / 'manual' 之類
@@ -15,3 +15,4 @@ class MemoryTask {
     required this.source,
   });
 }
+
