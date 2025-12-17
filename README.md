@@ -19,3 +19,4 @@ Memory Catcher 解決使用者「漏聽重要資訊」的痛點，透過 Ring Bu
 ---
 *Created by 宋靜涵 (應用於淡江大學資管系轉學考審查資料)*\
 
+
